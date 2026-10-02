@@ -1,1 +1,5 @@
 www.jade-touch.com
+http/www.jade-touch.com
+TYPE: CNAME
+Host:www 
+Value: mykolamieshkov-web.github.io
